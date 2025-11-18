@@ -1,0 +1,7 @@
+{
+  "name": "Tech Titans Sentiment Analysis Dashboard",
+  "description": "An interactive dashboard to analyze sentiment in text data. It provides multi-class classification, confidence scores, keyword extraction, and visualizations to understand emotional tone in text from customer reviews, social media, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
