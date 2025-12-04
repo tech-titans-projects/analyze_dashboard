@@ -22,3 +22,6 @@ Frontend: React, HTML, CSS
 Visualization Libraries: Chart.js / D3.js
 Backend (if applicable): Node.js or API integrations for data processing
 Deployment: Vercel
+
+## 🚀 Getting Started
+1. Open the project link.
