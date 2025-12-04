@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+📊**Tech Titans Sentiment Analyze Dashboard**
+Overview
+The Analyze Dashboard is a web-based application designed to visualize and interpret datasets. It provides users with interactive charts, summaries, and insights to support better decision-making. Built with modern frontend technologies and deployed on Vercel, it demonstrates practical skills in data visualization and dashboard design.
 
-# Run and deploy your AI Studio app
+🎯**Purpose**
+Simplify data exploration and analysis.
+Provide interactive, real-time dashboards for users.
+Showcase frontend and visualization skills in a deployed project.
 
-This contains everything you need to run your app locally.
+⚙️ **Features**
+Data Upload & Input: Users can provide datasets for analysis.
+Interactive Visualizations: Graphs, charts, and tables to explore trends and patterns.
+Customizable Views: Filter and adjust parameters to focus on specific metrics.
+Responsive Design: Works seamlessly across desktop and mobile devices.
+Deployment: Hosted on Vercel for fast, reliable access.
 
-View your app in AI Studio: https://ai.studio/apps/drive/15u9nxICE2Wlstyb7ngJwYFT3Z35RCQ-7
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🛠 **Tech Stack**
+Frontend: React, HTML, CSS
+Visualization Libraries: Chart.js / D3.js
+Backend (if applicable): Node.js or API integrations for data processing
+Deployment: Vercel
